@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007707919046",
+    "project_id": "testocr-9a617",
+    "storage_bucket": "testocr-9a617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007707919046:android:43ef6a97269a41da7ffdc7",
+        "android_client_info": {
+          "package_name": "com.example.textocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qLABWF10_NGBuy0ugACb4_J3tMT3pes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
